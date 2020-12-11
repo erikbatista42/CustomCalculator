@@ -1,0 +1,26 @@
+body {
+    background-color: navy;
+    text-align: center;
+    font-family: 'Arial';
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(222, 64, 234);
+}
+
+.dog-calculator {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p, input {
+    display: inline;
+}
+
+#display-result {
+    color: rgb(222, 64, 234);
+}
